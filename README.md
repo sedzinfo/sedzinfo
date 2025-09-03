@@ -37,14 +37,14 @@ Public repo: [geiger-counter](https://github.com/sedzinfo/geiger-counter)
 ![Last Commit](https://img.shields.io/github/last-commit/sedzinfo/geiger-counter?logo=github) ![Open Issues](https://img.shields.io/github/issues/sedzinfo/geiger-counter) ![Forks](https://img.shields.io/github/forks/sedzinfo/geiger-counter?style=social)
 
 Public repo: [modelsirt](https://github.com/sedzinfo/modelsirt)  
-![Stars](https://img.shields.io/github/stars/sedzinfo/modelsirt?style=social) ![Watchers](https://img.shields.io/github/watchers/sedzinfo/modelsirt?style=social) ![Repo Size](https://img.shields.io/github/repo-size/sedzinfo/modelsirt?color=orange) 
+![Stars](https://img.shields.io/github/stars/sedzinfo/modelsirt?style=social) ![Watchers](https://img.shields.io/github/watchers/sedzinfo/modelsirt?style=social) ![Repo Size](https://img.shields.io/github/repo-size/sedzinfo/modelsirt?color=orange)  
 ![Last Commit](https://img.shields.io/github/last-commit/sedzinfo/modelsirt?logo=github) ![Open Issues](https://img.shields.io/github/issues/sedzinfo/modelsirt) ![Forks](https://img.shields.io/github/forks/sedzinfo/modelsirt?style=social)
 
-Public repo: [workingfunctions](https://github.com/sedzinfo/snp)  
+Public repo: [snp](https://github.com/sedzinfo/snp)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/snp?style=social) ![Watchers](https://img.shields.io/github/watchers/sedzinfo/snp?style=social) ![Repo Size](https://img.shields.io/github/repo-size/sedzinfo/snp?color=orange)  
 ![Last Commit](https://img.shields.io/github/last-commit/sedzinfo/snp?logo=github) ![Open Issues](https://img.shields.io/github/issues/sedzinfo/snp) ![Forks](https://img.shields.io/github/forks/sedzinfo/snp?style=social)
 
-Public repo: [workingfunctions](https://github.com/sedzinfo/crypto)  
+Public repo: [crypto](https://github.com/sedzinfo/crypto)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/crypto?style=social) ![Watchers](https://img.shields.io/github/watchers/sedzinfo/crypto?style=social) ![Repo Size](https://img.shields.io/github/repo-size/sedzinfo/crypto?color=orange)  
 ![Last Commit](https://img.shields.io/github/last-commit/sedzinfo/crypto?logo=github) ![Open Issues](https://img.shields.io/github/issues/sedzinfo/crypto) ![Forks](https://img.shields.io/github/forks/sedzinfo/crypto?style=social)
 
