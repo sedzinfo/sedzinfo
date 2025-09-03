@@ -23,16 +23,16 @@ I’m a developer passionate about statistical reporting and visualization, as s
 Public repo: [workingfunctions](https://github.com/sedzinfo/workingfunctions)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/workingfunctions?style=social) ![Watchers](https://img.shields.io/github/watchers/sedzinfo/workingfunctions?style=social) ![Repo Size](https://img.shields.io/github/repo-size/sedzinfo/workingfunctions?color=orange) ![Last Commit](https://img.shields.io/github/last-commit/sedzinfo/workingfunctions?logo=github) ![Open Issues](https://img.shields.io/github/issues/sedzinfo/workingfunctions) ![Forks](https://img.shields.io/github/forks/sedzinfo/workingfunctions?style=social)
 
-Public repo: [workingfunctions](https://github.com/sedzinfo/enviro)  
+Public repo: [enviro](https://github.com/sedzinfo/enviro)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/enviro?style=social) ![Watchers](https://img.shields.io/github/watchers/sedzinfo/enviro?style=social) ![Repo Size](https://img.shields.io/github/repo-size/sedzinfo/enviro?color=orange) ![Last Commit](https://img.shields.io/github/last-commit/sedzinfo/enviro?logo=github) ![Open Issues](https://img.shields.io/github/issues/sedzinfo/enviro) ![Forks](https://img.shields.io/github/forks/sedzinfo/enviro?style=social)
 
-Public repo: [workingfunctions](https://github.com/sedzinfo/worldbank)  
+Public repo: [worldbank](https://github.com/sedzinfo/worldbank)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/worldbank?style=social) ![Watchers](https://img.shields.io/github/watchers/sedzinfo/worldbank?style=social) ![Repo Size](https://img.shields.io/github/repo-size/sedzinfo/worldbank?color=orange) ![Last Commit](https://img.shields.io/github/last-commit/sedzinfo/worldbank?logo=github) ![Open Issues](https://img.shields.io/github/issues/sedzinfo/worldbank) ![Forks](https://img.shields.io/github/forks/sedzinfo/worldbank?style=social)
 
-Public repo: [workingfunctions](https://github.com/sedzinfo/geiger-counter)  
+Public repo: [geiger-counter](https://github.com/sedzinfo/geiger-counter)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/geiger-counter?style=social) ![Watchers](https://img.shields.io/github/watchers/sedzinfo/geiger-counter?style=social) ![Repo Size](https://img.shields.io/github/repo-size/sedzinfo/geiger-counter?color=orange) ![Last Commit](https://img.shields.io/github/last-commit/sedzinfo/geiger-counter?logo=github) ![Open Issues](https://img.shields.io/github/issues/sedzinfo/geiger-counter) ![Forks](https://img.shields.io/github/forks/sedzinfo/geiger-counter?style=social)
 
-Public repo: [workingfunctions](https://github.com/sedzinfo/modelsirt)  
+Public repo: [modelsirt](https://github.com/sedzinfo/modelsirt)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/modelsirt?style=social) ![Watchers](https://img.shields.io/github/watchers/sedzinfo/modelsirt?style=social) ![Repo Size](https://img.shields.io/github/repo-size/sedzinfo/modelsirt?color=orange) ![Last Commit](https://img.shields.io/github/last-commit/sedzinfo/modelsirt?logo=github) ![Open Issues](https://img.shields.io/github/issues/sedzinfo/modelsirt) ![Forks](https://img.shields.io/github/forks/sedzinfo/modelsirt?style=social)
 
 Public repo: [workingfunctions](https://github.com/sedzinfo/snp)  
