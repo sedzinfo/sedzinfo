@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- Profile README for sedzinfo with personalized suggestions -->
 
-<!--
-**sedzinfo/sedzinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm sedzinfo 👋</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/30319353?v=4" width="100" alt="sedzinfo avatar"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a developer passionate about statistical reporting and visualization, as showcased in my main repository, **workingfunctions**. I love exploring new methods to make data more accessible and actionable.
+
+---
+
+## 🛠️ Current Focus
+
+- Building statistical reporting and visualization tools
+- Working with HTML and integrating with other technologies
+- Open source contributions and collaboration
+
+---
+
+## 📈 Quick Stats
+
+- Public repo: [workingfunctions](https://github.com/sedzinfo/workingfunctions)
+- Main language: HTML
+- Stars: 2 | Watchers: 2
+
+---
+
+## 🤝 Let’s Collaborate!
+
+I’m always open to feedback, new ideas, and collaboration. If you want to contribute, open an issue or pull request, or just reach out!
+
+<p align="center">
+  <a href="https://github.com/sedzinfo">GitHub</a>
+</p>
+
+---
+
+<!-- Generated with Copilot: Suggestions to help you grow your GitHub presence! -->
