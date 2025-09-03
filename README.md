@@ -102,9 +102,6 @@ Click any card to open the link in a new tab!
 
 ### 👤 Social & Data Profiles
 
-- <a href="https://github.com/sedzinfo" target="_blank">GitHub (sedzinfo)</a>
-- <a href="https://www.facebook.com/sedzinfo" target="_blank">Facebook</a>
-- <a href="https://x.com/IndicentCensor" target="_blank">X (Twitter)</a>
 - <a href="https://500px.com/sedzinfo" target="_blank">500px (Photography)</a>
 
 ---
