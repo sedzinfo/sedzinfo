@@ -4,6 +4,15 @@
 
 ![sedzinfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true)
 
+<img src="https://github-readme-stats.vercel.app/api?username=sedzinfo
+&show_icons=true
+&count_private=true
+&include_all_commits=true
+&theme=dark
+" width="600"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&layout=compact&langs_count=8" width="600"/>
+
 Public repo: [workingfunctions](https://github.com/sedzinfo/workingfunctions)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/workingfunctions?style=social)
 ![Watchers](https://img.shields.io/github/watchers/sedzinfo/workingfunctions?style=social)
