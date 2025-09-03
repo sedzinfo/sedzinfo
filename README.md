@@ -1,23 +1,5 @@
 <!-- Profile README for sedzinfo with personalized suggestions -->
 
-<h1 align="center">Hi, I'm sedzinfo 👋</h1>
-
----
-
-## 🚀 About Me
-
-I’m a developer passionate about statistical reporting and visualization, as showcased in my main repository, **workingfunctions**. I love exploring new methods to make data more accessible and actionable.
-
----
-
-## 🛠️ Current Focus
-
-- Building statistical reporting and visualization tools
-- Working with HTML and integrating with other technologies
-- Open source contributions and collaboration
-
----
-
 ## 📈 Quick Stats
 
 Public repo: [workingfunctions](https://github.com/sedzinfo/workingfunctions)  
@@ -47,13 +29,6 @@ Public repo: [snp](https://github.com/sedzinfo/snp)
 Public repo: [crypto](https://github.com/sedzinfo/crypto)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/crypto?style=social) ![Watchers](https://img.shields.io/github/watchers/sedzinfo/crypto?style=social) ![Repo Size](https://img.shields.io/github/repo-size/sedzinfo/crypto?color=orange)  
 ![Last Commit](https://img.shields.io/github/last-commit/sedzinfo/crypto?logo=github) ![Open Issues](https://img.shields.io/github/issues/sedzinfo/crypto) ![Forks](https://img.shields.io/github/forks/sedzinfo/crypto?style=social)
-
----
-
-## 🌐 My Projects & Profiles
-
-Below is a preview gallery of my web apps, dashboards, profiles, and code repositories.
-Click any card to open the link in a new tab!
 
 ---
 
