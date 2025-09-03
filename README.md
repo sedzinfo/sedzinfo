@@ -1,7 +1,5 @@
 <!-- Profile README for sedzinfo with personalized suggestions -->
 
-<h2>📊 My GitHub Stats</h2>
-
 <!-- Main Stats Card (Dark Theme, Wider, More Stats) -->
 <img src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&count_private=true&include_all_commits=true&theme=dark" width="800"/>
 
