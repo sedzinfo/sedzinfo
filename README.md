@@ -4,16 +4,14 @@
 
 ![sedzinfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sedzinfo
-&show_icons=true
-&count_private=true
-&include_all_commits=true
-&theme=dark width="600"/>
+<h2>📊 My GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo
-&show_icons=true
-&langs_count=10
-&theme="dark"  width="600"/>
+<!-- Main Stats Card (Dark Theme, Wider, More Stats) -->
+<img src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&count_private=true&include_all_commits=true&theme=dark" width="600"/>
+
+<!-- Top Languages Card (Dark Theme, More Languages, Wider) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&show_icons=true&langs_count=10&theme=dark" width="600"/>
+
 
 Public repo: [workingfunctions](https://github.com/sedzinfo/workingfunctions)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/workingfunctions?style=social)
