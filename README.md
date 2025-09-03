@@ -6,8 +6,6 @@
 <!-- Top Languages Card (Dark Theme, More Languages, Wider) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&show_icons=true&langs_count=10&count_private=true&include_all_commits=true&theme=dark" width="800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=sedzinfo&theme=dark" width="800"/>
-
 Public repo: [workingfunctions](https://github.com/sedzinfo/workingfunctions)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/workingfunctions?style=social)
 ![Watchers](https://img.shields.io/github/watchers/sedzinfo/workingfunctions?style=social)
