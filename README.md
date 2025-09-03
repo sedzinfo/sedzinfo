@@ -34,52 +34,16 @@ Public repo: [crypto](https://github.com/sedzinfo/crypto)
 
 ### 📊 Shiny Web Apps
 
-<table>
-  <tr>
-    <td>
-      <a href="https://dimitrios.shinyapps.io/crypto_timeseries/" target="_blank">
-        <img src="https://www.shinyapps.io/static/img/shinyapps-logo.png" width="120"/><br>
-        <b>Crypto Timeseries</b>
-      </a>
-    </td>
-    <td>
-      <a href="https://dimitrios.shinyapps.io/worldbank/" target="_blank">
-        <img src="https://www.shinyapps.io/static/img/shinyapps-logo.png" width="120"/><br>
-        <b>World Bank Explorer</b>
-      </a>
-    </td>
-    <td>
-      <a href="https://dimitrios.shinyapps.io/modelsirt/" target="_blank">
-        <img src="https://www.shinyapps.io/static/img/shinyapps-logo.png" width="120"/><br>
-        <b>Model SIRT</b>
-      </a>
-    </td>
-    <td>
-      <a href="https://dimitrios.shinyapps.io/mleirt/" target="_blank">
-        <img src="https://www.shinyapps.io/static/img/shinyapps-logo.png" width="120"/><br>
-        <b>MLE-IRT</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://sedzinfo.shinyapps.io/covid_timeseries/" target="_blank">
-        <img src="https://www.shinyapps.io/static/img/shinyapps-logo.png" width="120"/><br>
-        <b>COVID Timeseries</b>
-      </a>
-    </td>
-    <td>
-      <a href="https://sedzinfo.shinyapps.io/pimoroni_enviro/" target="_blank">
-        <img src="https://www.shinyapps.io/static/img/shinyapps-logo.png" width="120"/><br>
-        <b>Pimoroni Enviro</b>
-      </a>
-    </td>
-  </tr>
-</table>
+- <a href="https://dimitrios.shinyapps.io/crypto_timeseries/" target="_blank">Crypto Timeseries</a>
+- <a href="https://dimitrios.shinyapps.io/worldbank/" target="_blank">Crypto Timeseries</a>
+- <a href="https://dimitrios.shinyapps.io/modelsirt/" target="_blank">Crypto Timeseries</a>
+- <a href="https://dimitrios.shinyapps.io/mleirt/" target="_blank">Crypto Timeseries</a>
+- <a href="https://dimitrios.shinyapps.io/covid_timeseries/" target="_blank">Crypto Timeseries</a>
+- <a href="https://dimitrios.shinyapps.io/pimoroni_enviro/" target="_blank">Crypto Timeseries</a>
 
 ---
 
-### 🖥️ Dashboards & Apps
+### 🖥️ Dashboards
 
 - <a href="https://sedzinfo.grafana.net/public-dashboards/3cb2f6f229204ffc970aee36f41bb3f6" target="_blank">Grafana Dashboard #1</a>
 - <a href="https://sedzinfo.grafana.net/public-dashboards/425b920caf1b48dfb15fc829d322e949" target="_blank">Grafana Dashboard #2</a>
