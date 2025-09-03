@@ -24,14 +24,4 @@ Public repo: [workingfunctions](https://github.com/sedzinfo/workingfunctions)
 - ![Stars](https://img.shields.io/github/stars/sedzinfo/workingfunctions?style=social) ![Watchers](https://img.shields.io/github/watchers/sedzinfo/workingfunctions?style=social) ![Repo Size](https://img.shields.io/github/repo-size/sedzinfo/workingfunctions?color=orange) ![Last Commit](https://img.shields.io/github/last-commit/sedzinfo/workingfunctions?logo=github) ![Open Issues](https://img.shields.io/github/issues/sedzinfo/workingfunctions) ![Forks](https://img.shields.io/github/forks/sedzinfo/workingfunctions?style=social)
 ---
 
-## 🤝 Let’s Collaborate!
-
-I’m always open to feedback, new ideas, and collaboration. If you want to contribute, open an issue or pull request, or just reach out!
-
-<p align="center">
-  <a href="https://github.com/sedzinfo">GitHub</a>
-</p>
-
----
-
 <!-- Generated with Copilot: Suggestions to help you grow your GitHub presence! -->
