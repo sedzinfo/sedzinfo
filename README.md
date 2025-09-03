@@ -35,11 +35,11 @@ Public repo: [crypto](https://github.com/sedzinfo/crypto)
 ### 📊 Shiny Web Apps
 
 - <a href="https://dimitrios.shinyapps.io/crypto_timeseries/" target="_blank">Crypto Timeseries</a>
-- <a href="https://dimitrios.shinyapps.io/worldbank/" target="_blank">Crypto Timeseries</a>
-- <a href="https://dimitrios.shinyapps.io/modelsirt/" target="_blank">Crypto Timeseries</a>
-- <a href="https://dimitrios.shinyapps.io/mleirt/" target="_blank">Crypto Timeseries</a>
-- <a href="https://dimitrios.shinyapps.io/covid_timeseries/" target="_blank">Crypto Timeseries</a>
-- <a href="https://dimitrios.shinyapps.io/pimoroni_enviro/" target="_blank">Crypto Timeseries</a>
+- <a href="https://dimitrios.shinyapps.io/worldbank/" target="_blank">WorldBank Fincancial Indicators</a>
+- <a href="https://dimitrios.shinyapps.io/modelsirt/" target="_blank">Item Characteristic Curves and other functions for IRT Models</a>
+- <a href="https://dimitrios.shinyapps.io/mleirt/" target="_blank">Item Characteristic Curves and other functions for IRT Models</a>
+- <a href="https://dimitrios.shinyapps.io/covid_timeseries/" target="_blank">Covid Timeseries</a>
+- <a href="https://dimitrios.shinyapps.io/pimoroni_enviro/" target="_blank">Pimoroni Enviro Real Time Visualisations</a>
 
 ---
 
