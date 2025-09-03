@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&count_private=true&include_all_commits=true&theme=dark" width="800"/>
 
 <!-- Top Languages Card (Dark Theme, More Languages, Wider) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&show_icons=true&langs_count=10&theme=dark" width="800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&show_icons=true&langs_count=10&count_private=true&include_all_commits=true&theme=dark" width="800"/>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=sedzinfo&theme=dark" width="800"/>
 
