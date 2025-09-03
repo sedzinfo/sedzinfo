@@ -2,6 +2,8 @@
 
 ## 📈 Quick Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true)
+
 Public repo: [workingfunctions](https://github.com/sedzinfo/workingfunctions)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/workingfunctions?style=social)
 ![Watchers](https://img.shields.io/github/watchers/sedzinfo/workingfunctions?style=social)
