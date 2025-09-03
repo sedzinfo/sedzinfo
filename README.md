@@ -8,13 +8,13 @@
 &show_icons=true
 &count_private=true
 &include_all_commits=true
-&theme=dark" width="600"/>
+&theme="dark" width="600"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo
 &show_icons=true
 &count_private=true
 &layout=compact
-&langs_count=10" width="600"/>
+&langs_count=10" &theme="dark"  width="600"/>
 
 Public repo: [workingfunctions](https://github.com/sedzinfo/workingfunctions)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/workingfunctions?style=social)
