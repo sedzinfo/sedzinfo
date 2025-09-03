@@ -1,9 +1,6 @@
 <!-- Profile README for sedzinfo with personalized suggestions -->
 
 <h1 align="center">Hi, I'm sedzinfo 👋</h1>
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/30319353?v=4" width="100" alt="sedzinfo avatar"/>
-</p>
 
 ---
 
