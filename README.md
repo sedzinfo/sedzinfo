@@ -1,11 +1,3 @@
-<!-- Profile README for sedzinfo with personalized suggestions -->
-
-<!-- Main Stats Card (Dark Theme, Wider, More Stats) -->
-<img src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="400"/>
-
-<!-- Top Languages Card (Dark Theme, More Languages, Wider) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&show_icons=true&langs_count=20&count_private=true&include_all_commits=true&theme=transparent" width="400"/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&langs_count=20&count_private=true&include_all_commits=true&theme=transparent"/>
