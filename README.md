@@ -1,16 +1,12 @@
 <!-- Profile README for sedzinfo with personalized suggestions -->
 
-## 📈 Quick Stats
-
-![sedzinfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true)
-
 <h2>📊 My GitHub Stats</h2>
 
 <!-- Main Stats Card (Dark Theme, Wider, More Stats) -->
-<img src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&count_private=true&include_all_commits=true&theme=dark" width="600"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&count_private=true&include_all_commits=true&theme=dark" width="800"/>
 
 <!-- Top Languages Card (Dark Theme, More Languages, Wider) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&show_icons=true&langs_count=10&theme=dark" width="600"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&show_icons=true&langs_count=10&theme=dark" width="800"/>
 
 
 Public repo: [workingfunctions](https://github.com/sedzinfo/workingfunctions)  
