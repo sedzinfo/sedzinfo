@@ -14,7 +14,8 @@
 &show_icons=true
 &count_private=true
 &layout=compact
-&langs_count=10" &theme="dark"  width="600"/>
+&langs_count=10
+&theme="dark"  width="600"/>
 
 Public repo: [workingfunctions](https://github.com/sedzinfo/workingfunctions)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/workingfunctions?style=social)
