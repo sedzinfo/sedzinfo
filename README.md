@@ -6,6 +6,12 @@
 <!-- Top Languages Card (Dark Theme, More Languages, Wider) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&show_icons=true&langs_count=20&count_private=true&include_all_commits=true&theme=transparent" width="400"/>
 
+<!-- 📊 GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<!-- 🧠 Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&langs_count=20&count_private=true&include_all_commits=true&theme=transparent)
+
 Public repo: [workingfunctions](https://github.com/sedzinfo/workingfunctions)  
 ![Stars](https://img.shields.io/github/stars/sedzinfo/workingfunctions?style=social)
 ![Watchers](https://img.shields.io/github/watchers/sedzinfo/workingfunctions?style=social)
