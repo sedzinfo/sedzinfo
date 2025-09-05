@@ -30,5 +30,5 @@
 ---
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedzinfo&label=Profile%20views&color=0e75b6&style=flat" alt="sedzinfo" /> </p>
 <!-- Generated with Copilot: Suggestions to help you grow your GitHub presence! -->
