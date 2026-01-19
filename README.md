@@ -45,8 +45,11 @@
 <!-- Stats -->
 <p align="center">
   <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub Stats" height="160"
-      src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    <img
+      alt="GitHub Stats"
+      height="160"
+      src="https://your-vercel-deployment-url/api?username=sedzinfo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&v=1"
+    />
   </a>
   <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
     <img alt="Top Languages" height="160"
