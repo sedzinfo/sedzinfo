@@ -1,7 +1,19 @@
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&langs_count=20&count_private=true&include_all_commits=true&theme=transparent&hide=html&card_width=300"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
+        <img alt="GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&card_width=420&v=2" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
+        <img alt="Top Languages"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&layout=compact&langs_count=12&theme=transparent&hide=html&hide_border=true&card_width=420&v=2" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,19 +54,4 @@
 
 
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
-        <img alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&card_width=420&v=2" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
-        <img alt="Top Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&layout=compact&langs_count=12&theme=transparent&hide=html&hide_border=true&card_width=420&v=2" />
-      </a>
-    </td>
-  </tr>
-</table>
+
