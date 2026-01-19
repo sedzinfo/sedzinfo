@@ -66,12 +66,4 @@
 
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sedzinfo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/sedzinfo?tab=followers" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sedzinfo?label=Follow&style=social" />
-  </a>
-</p>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sedzinfo&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sedzinfo&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak" /></a>
