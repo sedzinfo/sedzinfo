@@ -17,8 +17,6 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
-
-
 ---
 
 | Hyperlink | Summary |
@@ -35,7 +33,6 @@
 | [Enviro Timeseries 2](https://sedzinfo.grafana.net/public-dashboards/ef4111089eb74c56ad96ce3b082cc55a) | Grafana dashboards: Pimoroni enviro data exporter |
 |👤 Social Profiles |  |
 | [500px (Photography)](https://500px.com/sedzinfo) | |
-
 
 ---
 
