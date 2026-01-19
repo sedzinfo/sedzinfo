@@ -1,4 +1,4 @@
-<table align="left">
+<table align="center" width=100%>
   <tr>
     <td>
       <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
@@ -17,7 +17,7 @@
 
 <br><br>
 
-<p align="left">
+<p align="center">
   <!-- Languages -->
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
