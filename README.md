@@ -23,8 +23,8 @@
 |---|---|
 |📊 Shiny Web Apps |  |
 | [WorldBank WDI](https://dimitrios.shinyapps.io/worldbank/) | Interactive Financial Indicators Explorer for more than 100 Countries since 1960 |
-| [IRT Visualisations 1](https://dimitrios.shinyapps.io/modelsirt/) | Interactive educational visualization tool for IRT functions |
-| [IRT Visualisations 2](https://dimitrios.shinyapps.io/mleirt/) | Interactive educational visualization tool for IRT functions |
+| [IRT ICC Visualisations](https://dimitrios.shinyapps.io/modelsirt/) | Interactive educational visualization tool for IRT functions |
+| [IRT MLE EAP MAP Visualisations](https://dimitrios.shinyapps.io/mleirt/) | Interactive educational visualization tool for IRT functions |
 | [Pimoroni Enviro](https://sedzinfo.shinyapps.io/pimoroni_enviro/) | Prometheus Plotly real time visualisations for Enviro and enviro plus sensors |
 | [Crypto Timeseries](https://dimitrios.shinyapps.io/crypto_timeseries/) | Crypto real time exchange rate data visualizations |
 |🖥️ Dashboards |  |
