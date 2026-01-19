@@ -69,9 +69,9 @@
 
 
 
-
+<p align="left">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sedzinfo&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-
+</p>
 
 
 
