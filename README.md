@@ -40,7 +40,7 @@
 ---
 
 ### 📊 Shiny Web Apps
-| Repo | Summary |
+| Hyperlink | Summary |
 |---|---|
 | [WorldBank Financial Indicators](https://dimitrios.shinyapps.io/worldbank/) | Online Financial Indicator Explorer for more than 100 Countries |
 | [IRT Visualisations 1](https://dimitrios.shinyapps.io/modelsirt/) | Online educational visualization tool for IRT functions |
@@ -51,7 +51,7 @@
 ---
 
 ### 🖥️ Dashboards
-| Repo | Summary |
+| Hyperlink | Summary |
 |---|---|
 | [Grafana Dashboard: Radiation (β, γ) and Gas Sensor Timeseries](https://sedzinfo.grafana.net/public-dashboards/3cb2f6f229204ffc970aee36f41bb3f6) | Radiation data exporter + Grafana dashboards |
 | [Grafana Dashboard: Weather Sensor Timeseries 1](https://sedzinfo.grafana.net/public-dashboards/425b920caf1b48dfb15fc829d322e949)| Pimoroni enviro plus data exporter + Grafana dashboards |
@@ -60,7 +60,7 @@
 ---
 
 ### 👤 Social Profiles
-|  | Summary |
+| Hyperlink| Summary |
 |---|---|
 | [500px (Photography)](https://500px.com/sedzinfo) | |
 
