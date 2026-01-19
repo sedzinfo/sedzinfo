@@ -52,7 +52,12 @@
 
 
 
-
+<p align="center">
+  <img alt="GitHub Streak" height="165"
+    src="https://streak-stats.demolab.com/?user=sedzinfo&theme=transparent&hide_border=true" />
+  <img alt="GitHub Profile Trophies" height="165"
+    src="https://github-profile-trophy.vercel.app/?username=sedzinfo&theme=flat&margin-w=8&margin-h=8&no-bg=true&no-frame=true&column=4" />
+</p>
 
 
 <p align="center">
