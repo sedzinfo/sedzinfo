@@ -74,10 +74,5 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sedzinfo&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sedzinfo&theme=transparent&hide_border=true" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sedzinfo&theme=transparent&hide_border=true" />
-</picture>
 
 
