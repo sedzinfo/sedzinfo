@@ -57,7 +57,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sedzinfo&theme=transparent&hide_border=true" />
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sedzinfo&theme=transparent&hide_border=true" />
 </picture>
+
 ### 🚀 Featured Projects
+
 | Repo | Summary |
 |---|---|
 | [sensor-pipeline](https://github.com/sedzinfo/sensor-pipeline) | ETL + Grafana dashboards for radiation & weather sensors. |
