@@ -55,3 +55,10 @@
 
 
 
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img alt="Shiny" src="https://img.shields.io/badge/Shiny-25A8E0?logo=r&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+</p>
