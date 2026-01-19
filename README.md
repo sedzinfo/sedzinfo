@@ -68,13 +68,6 @@
 </p>
 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=sedzinfo&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=sedzinfo&theme=github-light&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-    <img alt="GitHub Streak" height="165"
-      src="https://streak-stats.demolab.com?user=sedzinfo&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-  </picture>
+<p align="center" width=100%>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sedzinfo&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </p>
