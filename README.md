@@ -46,7 +46,7 @@
 | [IRT Visualisations 1](https://dimitrios.shinyapps.io/modelsirt/) | Online educational visualization tool for IRT functions |
 | [IRT Visualisations 2](https://dimitrios.shinyapps.io/mleirt/) | Online educational visualization tool for IRT functions |
 | [Pimoroni Enviro Real‑Time Visualisations](https://sedzinfo.shinyapps.io/pimoroni_enviro/) | Prometheus Plotly R visualisations for Enviro sensors |
-| [Crypto Timeseries](https://dimitrios.shinyapps.io/crypto_timeseries/) | |
+| [Crypto Timeseries](https://dimitrios.shinyapps.io/crypto_timeseries/) | Crypto real time data visualizations |
 
 ---
 
@@ -54,8 +54,8 @@
 | Repo | Summary |
 |---|---|
 | [Grafana Dashboard: Radiation (β, γ) and Gas Sensor Timeseries](https://sedzinfo.grafana.net/public-dashboards/3cb2f6f229204ffc970aee36f41bb3f6) | Radiation data exporter + Grafana dashboards |
-| [Grafana Dashboard: Weather Sensor Timeseries 1](https://sedzinfo.grafana.net/public-dashboards/425b920caf1b48dfb15fc829d322e949)| Pimoroni weather data exporter + Grafana dashboards |
-| [Grafana Dashboard: Weather Sensor Timeseries 2](https://sedzinfo.grafana.net/public-dashboards/ef4111089eb74c56ad96ce3b082cc55a) | Pimoroni weather data exporter + Grafana dashboards |
+| [Grafana Dashboard: Weather Sensor Timeseries 1](https://sedzinfo.grafana.net/public-dashboards/425b920caf1b48dfb15fc829d322e949)| Pimoroni enviro plus data exporter + Grafana dashboards |
+| [Grafana Dashboard: Weather Sensor Timeseries 2](https://sedzinfo.grafana.net/public-dashboards/ef4111089eb74c56ad96ce3b082cc55a) | Pimoroni enviro data exporter + Grafana dashboards |
 
 ---
 
