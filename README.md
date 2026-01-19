@@ -38,7 +38,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sedzinfo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/sedzinfo?tab=followers" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sedzinfo?label=Follow&style=social" />
@@ -58,7 +58,7 @@
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sedzinfo&theme=transparent&hide_border=true" />
 </picture>
 
-<p align="center">
+<p align="left">
   <!-- Languages -->
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
