@@ -15,7 +15,7 @@
   </tr>
 </table>
 
----
+<br>
 
 <p align="left">
   <!-- Languages -->
