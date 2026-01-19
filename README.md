@@ -24,10 +24,10 @@
 | Hyperlink | Summary |
 |---|---|
 |📊 Shiny Web Apps |  |
-| [WorldBank Financial Indicators](https://dimitrios.shinyapps.io/worldbank/) | Online Financial Indicator Explorer for more than 100 Countries |
+| [WorldBank WDI](https://dimitrios.shinyapps.io/worldbank/) | Interactive Financial Indicators Explorer for more than 100 Countries since 1960 |
 | [IRT Visualisations 1](https://dimitrios.shinyapps.io/modelsirt/) | Interactive educational visualization tool for IRT functions |
 | [IRT Visualisations 2](https://dimitrios.shinyapps.io/mleirt/) | Interactive educational visualization tool for IRT functions |
-| [Pimoroni Enviro](https://sedzinfo.shinyapps.io/pimoroni_enviro/) | Prometheus Plotly R real time visualisations for Enviro and enviro plus sensors |
+| [Pimoroni Enviro](https://sedzinfo.shinyapps.io/pimoroni_enviro/) | Prometheus Plotlyreal time visualisations for Enviro and enviro plus sensors |
 | [Crypto Timeseries](https://dimitrios.shinyapps.io/crypto_timeseries/) | Crypto real time exchange data visualizations |
 |🖥️ Dashboards |  |
 | [Radiation (β, γ) and Gas Sensor Timeseries](https://sedzinfo.grafana.net/public-dashboards/3cb2f6f229204ffc970aee36f41bb3f6) | Grafana dashboards: Radiation and gas sensors data exporter |
