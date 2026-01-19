@@ -64,6 +64,3 @@
 |---|---|
 | [500px (Photography)](https://500px.com/sedzinfo) | |
 
-
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sedzinfo&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak" /></a>
