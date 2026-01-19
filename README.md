@@ -59,10 +59,13 @@
 </picture>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img alt="Shiny" src="https://img.shields.io/badge/Shiny-25A8E0?logo=r&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
-  <img alt="SVG" src="https://img.shields.io/badge/SVG-FF9900?logo=svg&logoColor=white" />
+  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" />
+  <img alt="SVG" src="https://img.shields.io/badge/SVG-FF9900?logo=svg&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+
 </p>
