@@ -28,7 +28,7 @@
 | [Pimoroni Enviro](https://sedzinfo.shinyapps.io/pimoroni_enviro/) | Prometheus Plotly real time visualisations for Enviro and enviro plus sensors |
 | [Crypto Timeseries](https://dimitrios.shinyapps.io/crypto_timeseries/) | Crypto real time exchange rate data visualizations |
 |🖥️ Dashboards |  |
-| [Radiation (β, γ) and Gas Sensors](https://sedzinfo.grafana.net/public-dashboards/3cb2f6f229204ffc970aee36f41bb3f6) | Grafana dashboards: Radiation and gas sensors data exporter |
+| [Radiation (β, γ) and Gas Sensors Timeseries](https://sedzinfo.grafana.net/public-dashboards/3cb2f6f229204ffc970aee36f41bb3f6) | Grafana dashboards: Radiation and gas sensors data exporter |
 | [Enviro](https://sedzinfo.grafana.net/public-dashboards/ef4111089eb74c56ad96ce3b082cc55a) | Grafana dashboards: Pimoroni enviro data exporter |
 | [Enviro Plus](https://sedzinfo.grafana.net/public-dashboards/425b920caf1b48dfb15fc829d322e949) | Grafana dashboards: Pimoroni enviro plus data exporter |
 |👤 Social Profiles |  |
