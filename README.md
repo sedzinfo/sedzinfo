@@ -52,18 +52,8 @@
 
 
 
-<p align="center">
-  <img alt="GitHub Streak" height="165"
-    src="https://streak-stats.demolab.com/?user=sedzinfo&theme=transparent&hide_border=true" />
-  <img alt="GitHub Profile Trophies" height="165"
-    src="https://github-profile-trophy.vercel.app/?username=sedzinfo&theme=flat&margin-w=8&margin-h=8&no-bg=true&no-frame=true&column=4" />
-</p>
-
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
-  <img alt="Shiny" src="https://img.shields.io/badge/Shiny-25A8E0?logo=r&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sedzinfo&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sedzinfo&theme=transparent&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sedzinfo&theme=transparent&hide_border=true" />
+</picture>
