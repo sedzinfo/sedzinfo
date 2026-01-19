@@ -55,3 +55,6 @@
 | [500px (Photography)](https://500px.com/sedzinfo) | |
 
 
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedzinfo&label=Profile%20views&color=0e75b6&style=flat" alt="sedzinfo" /> </p>
