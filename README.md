@@ -59,12 +59,10 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub Stats" height="165"
-      src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&v=3" />
-  </a>
-  <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
-    <img alt="Top Languages" height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&layout=compact&langs_count=12&theme=transparent&hide=html&hide_border=true&v=3" />
-  </a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img alt="Shiny" src="https://img.shields.io/badge/Shiny-25A8E0?logo=r&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+  <img alt="SVG" src="https://img.shields.io/badge/SVG-FF9900?logo=svg&logoColor=white" />
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" />
 </p>
