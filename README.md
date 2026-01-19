@@ -58,11 +58,13 @@
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sedzinfo&theme=transparent&hide_border=true" />
 </picture>
 
-### 🚀 Featured Projects
-
-| Repo | Summary |
-|---|---|
-| [sensor-pipeline](https://github.com/sedzinfo/sensor-pipeline) | ETL + Grafana dashboards for radiation & weather sensors. |
-| [shiny-worldbank](https://github.com/sedzinfo/shiny-worldbank) | Interactive financial indicators explorer (R/Shiny). |
-| [crypto-timeseries](https://github.com/sedzinfo/crypto-timeseries) | Timeseries analysis + visualisations for crypto assets. |
-| [enviro-rt](https://github.com/sedzinfo/enviro-rt) | Pimoroni Enviro real-time streaming + charts. |
+<p align="center">
+  <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub Stats" height="165"
+      src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&v=3" />
+  </a>
+  <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
+    <img alt="Top Languages" height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&layout=compact&langs_count=12&theme=transparent&hide=html&hide_border=true&v=3" />
+  </a>
+</p>
