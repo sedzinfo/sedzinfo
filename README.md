@@ -57,3 +57,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sedzinfo&theme=transparent&hide_border=true" />
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sedzinfo&theme=transparent&hide_border=true" />
 </picture>
+### 🚀 Featured Projects
+| Repo | Summary |
+|---|---|
+| [sensor-pipeline](https://github.com/sedzinfo/sensor-pipeline) | ETL + Grafana dashboards for radiation & weather sensors. |
+| [shiny-worldbank](https://github.com/sedzinfo/shiny-worldbank) | Interactive financial indicators explorer (R/Shiny). |
+| [crypto-timeseries](https://github.com/sedzinfo/crypto-timeseries) | Timeseries analysis + visualisations for crypto assets. |
+| [enviro-rt](https://github.com/sedzinfo/enviro-rt) | Pimoroni Enviro real-time streaming + charts. |
