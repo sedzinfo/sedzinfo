@@ -1,4 +1,4 @@
-<table align="left" width=100%>
+<table align="center" width=100%>
   <tr>
     <td>
       <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
