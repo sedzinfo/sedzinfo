@@ -25,12 +25,12 @@
 | [WorldBank WDI](https://dimitrios.shinyapps.io/worldbank/) | Interactive Financial Indicators Explorer for more than 100 Countries since 1960 |
 | [IRT Visualisations 1](https://dimitrios.shinyapps.io/modelsirt/) | Interactive educational visualization tool for IRT functions |
 | [IRT Visualisations 2](https://dimitrios.shinyapps.io/mleirt/) | Interactive educational visualization tool for IRT functions |
-| [Pimoroni Enviro](https://sedzinfo.shinyapps.io/pimoroni_enviro/) | Prometheus Plotlyreal time visualisations for Enviro and enviro plus sensors |
-| [Crypto Timeseries](https://dimitrios.shinyapps.io/crypto_timeseries/) | Crypto real time exchange data visualizations |
+| [Pimoroni Enviro](https://sedzinfo.shinyapps.io/pimoroni_enviro/) | Prometheus Plotly real time visualisations for Enviro and enviro plus sensors |
+| [Crypto Timeseries](https://dimitrios.shinyapps.io/crypto_timeseries/) | Crypto real time exchange rate data visualizations |
 |🖥️ Dashboards |  |
 | [Radiation (β, γ) and Gas Sensor Timeseries](https://sedzinfo.grafana.net/public-dashboards/3cb2f6f229204ffc970aee36f41bb3f6) | Grafana dashboards: Radiation and gas sensors data exporter |
-| [Enviro Timeseries 1](https://sedzinfo.grafana.net/public-dashboards/425b920caf1b48dfb15fc829d322e949) | Grafana dashboards: Pimoroni enviro plus data exporter |
-| [Enviro Timeseries 2](https://sedzinfo.grafana.net/public-dashboards/ef4111089eb74c56ad96ce3b082cc55a) | Grafana dashboards: Pimoroni enviro data exporter |
+| [Enviro](https://sedzinfo.grafana.net/public-dashboards/ef4111089eb74c56ad96ce3b082cc55a) | Grafana dashboards: Pimoroni enviro data exporter |
+| [Enviro Plus](https://sedzinfo.grafana.net/public-dashboards/425b920caf1b48dfb15fc829d322e949) | Grafana dashboards: Pimoroni enviro plus data exporter |
 |👤 Social Profiles |  |
 | [500px (Photography)](https://500px.com/sedzinfo) | |
 
