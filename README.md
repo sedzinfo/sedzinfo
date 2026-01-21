@@ -1,5 +1,3 @@
-<iframe src="spiral.html" width="100%" height="600" frameborder="0"></iframe>
-
 <table align="left" width=100%>
   <tr>
     <td>
