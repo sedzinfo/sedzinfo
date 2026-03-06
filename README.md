@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4FA3FF&center=true&vCenter=true&width=700&lines=
-    "Θνητός+γεγονώς+άνθρωπε,+μη+φρόνει+μέγα"
+    Θνητός+γεγονώς+άνθρωπε,+μη+φρόνει+μέγα"
     alt="Typing SVG" />
 </p>
 <p align="center">
