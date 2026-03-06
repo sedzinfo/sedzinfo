@@ -1,5 +1,10 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4FA3FF&center=true&vCenter=true&width=700&lines=Turning+data+into+interactive+stories;Building+Shiny+apps+for+exploration+and+learning;Visualizing+IRT+models+and+psychometrics;Streaming+real-time+sensor+data+with+Grafana+%26+Prometheus" alt="Typing SVG" /></p>
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4FA3FF&center=true&vCenter=true&width=700&lines=
+    "Θνητός+γεγονώς+άνθρωπε,+μη+φρόνει+μέγα."
+    alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /></p>
 
 
 ---
