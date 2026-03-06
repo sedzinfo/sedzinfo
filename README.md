@@ -1,9 +1,3 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4FA3FF&center=true&vCenter=true&width=700&lines=%CE%98%CE%BD%CE%B7%CF%84%CF%8C%CF%82+%CE%B3%CE%B5%CE%B3%CE%BF%CE%BD%CF%8E%CF%82+%CE%AC%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%B5%2C+%CE%BC%CE%B7+%CF%86%CF%81%CF%8C%CE%BD%CE%B5%CE%B9+%CE%BC%CE%AD%CE%B3%CE%B1"
-    alt="Typing SVG" 
-  />
-</p>
 
 ---
 
