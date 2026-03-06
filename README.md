@@ -1,21 +1,6 @@
-<table align="left" width=100%>
-  <tr>
-    <td>
-      <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
-        <img alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&card_width=420&v=2" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/sedzinfo" target="_blank" rel="noopener noreferrer">
-        <img alt="Top Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&layout=compact&langs_count=12&theme=transparent&hide=html&hide_border=true&card_width=420&v=2" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4FA3FF&center=true&vCenter=true&width=700&lines=Turning+data+into+interactive+stories;Building+Shiny+apps+for+exploration+and+learning;Visualizing+IRT+models+and+psychometrics;Streaming+real-time+sensor+data+with+Grafana+%26+Prometheus" alt="Typing SVG" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /></p>
 
-<br><br><br><br><br><br><br><br><br><br>
 
 ---
 
@@ -58,5 +43,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sedzinfo&label=Profile%20views&color=0e75b6&style=flat" alt="sedzinfo" /> </p>
 
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4FA3FF&center=true&vCenter=true&width=700&lines=Turning+data+into+interactive+stories;Building+Shiny+apps+for+exploration+and+learning;Visualizing+IRT+models+and+psychometrics;Streaming+real-time+sensor+data+with+Grafana+%26+Prometheus" alt="Typing SVG" /></p>
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /></p>
