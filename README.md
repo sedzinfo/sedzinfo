@@ -41,7 +41,6 @@
 
   <!-- Formats -->
   <img alt="SVG" src="https://img.shields.io/badge/SVG-FF9900?logo=svg&logoColor=white" />
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedzinfo&label=Profile%20views&color=0e75b6&style=flat" alt="sedzinfo" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=sedzinfo&label=Profile%20views&color=0e75b6&style=flat" alt="sedzinfo" />
 
 
