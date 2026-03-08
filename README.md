@@ -2,8 +2,6 @@
   <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1350&q=80" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">Welcome to My Data & Visualization Projects</h1>
-
 ---
 
 | Hyperlink | Summary |
