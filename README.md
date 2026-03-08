@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Welcome to My Data & Visualization Projects</h1>
-<h3 align="center">Shiny Apps • Grafana Dashboards • Real‑Time Analytics • Psychometrics</h3>
 
 ---
 
