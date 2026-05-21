@@ -40,5 +40,12 @@
   <!-- Formats -->
   <img alt="SVG" src="https://img.shields.io/badge/SVG-FF9900?logo=svg&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=sedzinfo&label=Profile%20views&color=0e75b6&style=flat" alt="sedzinfo" />
+</p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&layout=compact&hide_border=true" height="160"/>
+</p>
 
