@@ -45,9 +45,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sedzinfo" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sedzinfo&theme=github_dark" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sedzinfo&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=sedzinfo&hide_border=true&theme=dark" height="160"/>
 </p>
 
