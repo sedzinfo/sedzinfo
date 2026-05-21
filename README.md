@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&hide_border=true&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&layout=compact&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
 
