@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1350&q=80" width="100%" alt="Banner">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sedzinfo&theme=github_dark" width="100%"/>
 </p>
 
 ---
@@ -44,10 +44,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sedzinfo&theme=github_dark" width="100%"/>
-</p>
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=sedzinfo&hide_border=true&theme=dark" height="160"/>
-</p>
+</p> -->
 
