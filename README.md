@@ -9,7 +9,7 @@
 |📊 Libraries |  |
 | [rwf Package](https://sedzinfo.github.io/rwf/) | rwf Package Documentation |
 |📊 Shiny Web Apps |  |
-| [WorldBank WDI](https://dimitrios.shinyapps.io/worldbank/) | Interactive Financial Indicators Explorer for more than 100 Countries since 1960 |
+| [WorldBank WDI](https://dimitrios.shinyapps.io/worldbank/) | Financial Indicators Explorer for more than 100 Countries since 1960 |
 | [IRT ICC Visualisations](https://dimitrios.shinyapps.io/modelsirt/) | Interactive educational visualization tool for IRT functions |
 | [IRT MLE EAP MAP Visualisations](https://dimitrios.shinyapps.io/mleirt/) | Interactive educational visualization tool for IRT functions |
 | [Pimoroni Enviro](https://sedzinfo.shinyapps.io/pimoroni_enviro/) | Prometheus Plotly real time visualisations for Enviro and enviro plus sensors |
