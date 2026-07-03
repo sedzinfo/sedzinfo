@@ -7,7 +7,7 @@
 | Hyperlink | Summary |
 |---|---|
 |📚 Libraries |  |
-| [rwf Package](https://sedzinfo.github.io/rwf/) | rwf Package Documentation |
+| [rwf](https://sedzinfo.github.io/rwf/) | rwf Package Documentation |
 |📊 Shiny Web Apps |  |
 | [WorldBank WDI](https://dimitrios.shinyapps.io/worldbank/) | Interactive Financial Indicators Explorer for 100 + Countries since 1960 |
 | [IRT ICC Visualisations](https://dimitrios.shinyapps.io/modelsirt/) | Interactive educational visualization tool for IRT functions |
