@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sedzinfo&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" width="165"/>
+  <img src="https://streak-stats.demolab.com?user=sedzinfo&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" width="1000"/>
 </p>
