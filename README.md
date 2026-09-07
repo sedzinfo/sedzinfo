@@ -46,8 +46,7 @@
 
 ---
 
-
-<!-- <p align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=sedzinfo&hide_border=true&theme=dark" height="160"/>
 </p> -->
 z
