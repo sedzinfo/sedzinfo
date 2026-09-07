@@ -1,46 +1,27 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+%2B+Visualization+%2B+Monitoring;R+%7C+Shiny+%7C+Grafana;Building+interactive+tools+for+open+data" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sedzinfo&theme=github_dark" width="100%"/>
 </p>
 
 ---
 
-### 📚 Libraries
-
-| Project | Summary |
+| Hyperlink | Summary |
 |---|---|
+|📚 Libraries |  |
 | [rwf](https://sedzinfo.github.io/rwf/) | rwf Package Documentation |
-
-### 📊 Shiny Web Apps
-
-| Project | Summary |
-|---|---|
-| [WorldBank WDI](https://dimitrios.shinyapps.io/worldbank/) | Interactive financial indicators explorer for 100+ countries since 1960 |
+|📊 Shiny Web Apps |  |
+| [WorldBank WDI](https://dimitrios.shinyapps.io/worldbank/) | Interactive Financial Indicators Explorer for 100 + Countries since 1960 |
 | [IRT ICC Visualisations](https://dimitrios.shinyapps.io/modelsirt/) | Interactive educational visualization tool for IRT functions |
 | [IRT MLE EAP MAP Visualisations](https://dimitrios.shinyapps.io/mleirt/) | Interactive educational visualization tool for IRT functions |
-| [Pimoroni Enviro](https://sedzinfo.shinyapps.io/pimoroni_enviro/) | Prometheus/Plotly real-time visualizations for Enviro and Enviro+ sensors |
-| [Crypto Timeseries](https://dimitrios.shinyapps.io/crypto_timeseries/) | Real-time crypto exchange rate data visualizations |
-
-### 🖥️ Dashboards
-
-| Project | Summary |
-|---|---|
-| [Radiation (β, γ) and Gas Sensors Timeseries](https://sedzinfo.grafana.net/public-dashboards/3cb2f6f229204ffc970aee36f41bb3f6) | Grafana dashboard: radiation and gas sensor data exporter |
-| [Enviro](https://sedzinfo.grafana.net/public-dashboards/ef4111089eb74c56ad96ce3b082cc55a) | Grafana dashboard: Pimoroni Enviro data exporter |
-| [Enviro Plus](https://sedzinfo.grafana.net/public-dashboards/425b920caf1b48dfb15fc829d322e949) | Grafana dashboard: Pimoroni Enviro+ data exporter |
-
-### 👤 Connect
-
-<p align="left">
-  <a href="https://500px.com/sedzinfo"><img alt="500px" src="https://img.shields.io/badge/500px-0099E5?logo=500px&logoColor=white" /></a>
-</p>
+| [Pimoroni Enviro](https://sedzinfo.shinyapps.io/pimoroni_enviro/) | Prometheus Plotly real time visualisations for Enviro and enviro plus sensors |
+| [Crypto Timeseries](https://dimitrios.shinyapps.io/crypto_timeseries/) | Crypto real time exchange rate data visualizations |
+|🖥️ Dashboards |  |
+| [Radiation (β, γ) and Gas Sensors Timeseries](https://sedzinfo.grafana.net/public-dashboards/3cb2f6f229204ffc970aee36f41bb3f6) | Grafana dashboards: Radiation and gas sensors data exporter |
+| [Enviro](https://sedzinfo.grafana.net/public-dashboards/ef4111089eb74c56ad96ce3b082cc55a) | Grafana dashboards: Pimoroni enviro data exporter |
+| [Enviro Plus](https://sedzinfo.grafana.net/public-dashboards/425b920caf1b48dfb15fc829d322e949) | Grafana dashboards: Pimoroni enviro plus data exporter |
+|👤 Social Profiles |  |
+| [500px (Photography)](https://500px.com/sedzinfo) | |
 
 ---
-
-### 🛠️ Stack
 
 <p align="left">
   <!-- Languages -->
@@ -60,26 +41,13 @@
 
   <!-- Formats -->
   <img alt="SVG" src="https://img.shields.io/badge/SVG-FF9900?logo=svg&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=sedzinfo&label=Profile%20views&color=0e75b6&style=flat" alt="sedzinfo" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sedzinfo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzinfo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sedzinfo&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sedzinfo&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sedzinfo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=sedzinfo&hide_border=true&theme=dark" height="160"/>
+</p> -->
+z
