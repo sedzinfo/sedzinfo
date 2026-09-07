@@ -47,6 +47,5 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sedzinfo&hide_border=true&theme=dark" height="160"/>
-</p> -->
-z
+  <img src="https://streak-stats.demolab.com?user=sedzinfo&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" height="165"/>
+</p>
