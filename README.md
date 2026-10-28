@@ -2,9 +2,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sedzinfo&theme=github_dark" width="100%"/>
 </p>
 
+<!-- the two cards (340 px each) with a 20 px gap are as wide as the card above (700 px): 48.5% + 2.9% + 48.5%.
+     The comments between the images remove the spaces between them, which would make the row too wide. -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sedzinfo&theme=github_dark" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sedzinfo&theme=github_dark" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sedzinfo&theme=github_dark" width="48.5%"/><!--
+  --><img src="spacer.svg" width="2.9%"/><!--
+  --><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sedzinfo&theme=github_dark" width="48.5%"/>
 </p>
 
 ---
