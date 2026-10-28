@@ -35,7 +35,7 @@
   <img alt="golem" src="https://img.shields.io/badge/golem-35495E?logo=r&logoColor=white" />
   <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-1F78B4?logo=r&logoColor=white" />
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
-  <br>
+
   <!-- Publishing / Hosting -->
   <img alt="Quarto" src="https://img.shields.io/badge/Quarto-39729E?logo=quarto&logoColor=white" />
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white" />
@@ -45,12 +45,9 @@
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
 
-  <!-- Hardware -->
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" />
-
   <!-- Formats -->
   <img alt="SVG" src="https://img.shields.io/badge/SVG-FF9900?logo=svg&logoColor=white" />
-  <!--
+
   <img src="https://komarev.com/ghpvc/?username=sedzinfo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
    -->
 </p>
