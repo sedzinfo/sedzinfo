@@ -6,7 +6,7 @@
      The comments between the images remove the spaces between them, which would make the row too wide. -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sedzinfo&theme=github_dark" width="48.5%"/><!--
-  --><img src="spacer.svg" width="3.1%"/><!--
+  --><img src="spacer.svg" width="3%"/><!--
   --><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sedzinfo&theme=github_dark" width="48.5%"/>
 </p>
 
