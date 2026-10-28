@@ -32,12 +32,21 @@
 
   <!-- Visualization / Data Apps -->
   <img alt="Shiny" src="https://img.shields.io/badge/Shiny-25A8E0?logo=r&logoColor=white" />
-  <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-1F78B4?logo=ggplot2&logoColor=white" />
+  <img alt="golem" src="https://img.shields.io/badge/golem-35495E?logo=r&logoColor=white" />
+  <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-1F78B4?logo=r&logoColor=white" />
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
+
+  <!-- Publishing / Hosting -->
+  <img alt="Quarto" src="https://img.shields.io/badge/Quarto-39729E?logo=quarto&logoColor=white" />
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white" />
+  <img alt="Posit" src="https://img.shields.io/badge/Posit-447099?logo=posit&logoColor=white" />
 
   <!-- Monitoring / Dashboards -->
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+
+  <!-- Hardware -->
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" />
 
   <!-- Formats -->
   <img alt="SVG" src="https://img.shields.io/badge/SVG-FF9900?logo=svg&logoColor=white" />
