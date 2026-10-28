@@ -35,7 +35,7 @@
   <img alt="golem" src="https://img.shields.io/badge/golem-35495E?logo=r&logoColor=white" />
   <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-1F78B4?logo=r&logoColor=white" />
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
-
+  <br>
   <!-- Publishing / Hosting -->
   <img alt="Quarto" src="https://img.shields.io/badge/Quarto-39729E?logo=quarto&logoColor=white" />
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white" />
