@@ -17,10 +17,9 @@
 |📚 Libraries |  |
 | [rwf](https://sedzinfo.github.io/rwf/) | rwf Package Documentation |
 |📊 Shiny Web Apps |  |
-| [WorldBank WDI](https://dimitrios.shinyapps.io/worldbank/) | Interactive Financial Indicators Explorer for 100 + Countries since 1960 |
-| [IRT ICC Visualisations](https://dimitrios.shinyapps.io/modelsirt/) | Interactive educational visualization tool for IRT functions |
-| [IRT MLE EAP MAP Visualisations](https://dimitrios.shinyapps.io/mleirt/) | Interactive educational visualization tool for IRT functions |
-| [Pimoroni Enviro](https://sedzinfo.shinyapps.io/pimoroni_enviro/) | Prometheus Plotly real time visualisations for Enviro and enviro plus sensors |
+| [WorldBank WDI](https://sedzinfo.shinyapps.io/golemworldbank/) | Interactive Financial Indicators Explorer for 100 + Countries since 1960 |
+| [IRT ICC MLE EAP MAP Visualisations](https://sedzinfo-golemirt.share.connect.posit.cloud/) | Interactive educational visualization tool for IRT functions |
+| [Pimoroni Enviro](https://sedzinfo-golemenviro.share.connect.posit.cloud/) | Prometheus Plotly real time visualisations for Enviro and enviro plus sensors |
 | [Crypto Timeseries](https://dimitrios.shinyapps.io/crypto_timeseries/) | Crypto real time exchange rate data visualizations |
 |🖥️ Dashboards |  |
 | [Radiation (β, γ) and Gas Sensors Timeseries](https://sedzinfo.grafana.net/public-dashboards/3cb2f6f229204ffc970aee36f41bb3f6) | Grafana dashboards: Radiation and gas sensors data exporter |
