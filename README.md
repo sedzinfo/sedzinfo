@@ -21,6 +21,7 @@
 | [IRT ICC MLE EAP MAP Visualisations](https://sedzinfo-golemirt.share.connect.posit.cloud/) | Interactive educational visualization tool for IRT functions |
 | [Pimoroni Enviro](https://sedzinfo-golemenviro.share.connect.posit.cloud/) | Prometheus Plotly real time visualisations for Enviro and enviro plus sensors |
 | [Crypto Timeseries](https://sedzinfo-golemcrypto.share.connect.posit.cloud/) | Crypto real time exchange rate data visualizations |
+| [Stock Market Indices](https://sedzinfo-golemstockindices.share.connect.posit.cloud/) | Major stock market indices of the US, Europe and Asia: overview, history, seasonality, volatility and drawdowns |
 |🖥️ Dashboards |  |
 | [Radiation (β, γ) and Gas Sensors Timeseries](https://sedzinfo.grafana.net/public-dashboards/3cb2f6f229204ffc970aee36f41bb3f6) | Grafana dashboards: Radiation and gas sensors data exporter |
 | [Enviro](https://sedzinfo.grafana.net/public-dashboards/ef4111089eb74c56ad96ce3b082cc55a) | Grafana dashboards: Pimoroni enviro data exporter |
