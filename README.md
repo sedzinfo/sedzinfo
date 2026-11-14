@@ -22,9 +22,6 @@
 | [golemenviro](https://sedzinfo.github.io/golemenviro/) | Real-Time Visualization of Pimoroni Enviro Sensor Data from Prometheus |
 | [golemcrypto](https://sedzinfo.github.io/golemcrypto/) | Interactive Cryptocurrency Time Series and Market Data Explorer |
 | [golemstockindices](https://sedzinfo.github.io/golemstockindices/) | Interactive Explorer of the Major Stock Market Indices |
-| [worldbank](https://sedzinfo.github.io/worldbank/) | Worldbank Financial Indicators |
-| [mleirt](https://sedzinfo.github.io/mleirt/) | IRT MLE with shinyapps |
-| [modelsirt](https://sedzinfo.github.io/modelsirt/) | IRT curves with shinyapps |
 |📊 Shiny Web Apps |  |
 | [WorldBank WDI](https://sedzinfo.shinyapps.io/golemworldbank/) | Interactive Financial Indicators Explorer for 100 + Countries since 1960 |
 | [IRT ICC MLE EAP MAP Visualisations](https://sedzinfo-golemirt.share.connect.posit.cloud/) | Interactive educational visualization tool for IRT functions |
