@@ -22,8 +22,12 @@
 | [golemenviro](https://sedzinfo.github.io/golemenviro/) | Real-Time Visualization of Pimoroni Enviro Sensor Data from Prometheus |
 | [golemcrypto](https://sedzinfo.github.io/golemcrypto/) | Interactive Cryptocurrency Time Series and Market Data Explorer |
 | [golemstockindices](https://sedzinfo.github.io/golemstockindices/) | Interactive Explorer of the Major Stock Market Indices |
+| [golemcat](https://sedzinfo.github.io/golemcat/) | Computerized Adaptive Testing of the Big Five with the Rating Scale Model |
+| [golemeurostat](https://sedzinfo.github.io/golemeurostat/) | Eurostat Indicators Explorer |
 |📊 Shiny Web Apps |  |
+| [Big Five Personality Test](https://sedzinfo-golemcat.share.connect.posit.cloud/) | Adaptive Big Five test (IPIP-50, IRT scoring) with percentiles and a PDF report |
 | [WorldBank WDI](https://sedzinfo.shinyapps.io/golemworldbank/) | Interactive Financial Indicators Explorer for 100 + Countries since 1960 |
+| [Eurostat Indicators](https://sedzinfo.shinyapps.io/golemeurostat/) | Indicators of the EU, EFTA and candidate countries and the regions of Europe: comparisons, pyramids, maps |
 | [IRT ICC MLE EAP MAP Visualisations](https://sedzinfo-golemirt.share.connect.posit.cloud/) | Interactive educational visualization tool for IRT functions |
 | [Pimoroni Enviro](https://sedzinfo-golemenviro.share.connect.posit.cloud/) | Prometheus Plotly real time visualisations for Enviro and enviro plus sensors |
 | [Crypto Timeseries](https://sedzinfo-golemcrypto.share.connect.posit.cloud/) | Crypto real time exchange rate data visualizations |
