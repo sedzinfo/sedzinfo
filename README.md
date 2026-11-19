@@ -42,7 +42,7 @@
 ---
 
 <!-- one HTML block, no blank lines inside: GitHub keeps the badges inline, and <br/> sets the rows -->
-<p align="center">
+<p align="left">
   <!-- Languages -->
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
