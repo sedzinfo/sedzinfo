@@ -14,7 +14,7 @@
 
 | Hyperlink | Summary |
 |---|---|
-|📚 Libraries |  |
+|📚 Libraries | [![r-universe](https://sedzinfo.r-universe.dev/badges/:name)](https://sedzinfo.r-universe.dev/) [![registry](https://sedzinfo.r-universe.dev/badges/:registry)](https://sedzinfo.r-universe.dev/builds) [![packages](https://sedzinfo.r-universe.dev/badges/:packages)](https://sedzinfo.r-universe.dev/packages) [![articles](https://sedzinfo.r-universe.dev/badges/:articles)](https://sedzinfo.r-universe.dev/articles) [![datasets](https://sedzinfo.r-universe.dev/badges/:datasets)](https://sedzinfo.r-universe.dev/datasets) |
 | [rwf](https://sedzinfo.github.io/rwf/) | rwf Package Documentation |
 | [snp](https://sedzinfo.github.io/snp/) | Plot standard normal distribution |
 | [golemworldbank](https://sedzinfo.github.io/golemworldbank/) | World Bank Indicators Explorer |
