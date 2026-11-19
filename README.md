@@ -41,43 +41,38 @@
 
 ---
 
-<p align="left">
+<!-- one HTML block, no blank lines inside: GitHub keeps the badges inline, and <br/> sets the rows -->
+<p align="center">
   <!-- Languages -->
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
-
   <!-- Visualization / Data Apps -->
   <img alt="Shiny" src="https://img.shields.io/badge/Shiny-25A8E0?logo=r&logoColor=white" />
   <img alt="golem" src="https://img.shields.io/badge/golem-35495E?logo=r&logoColor=white" />
   <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-1F78B4?logo=r&logoColor=white" />
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
-
+  <br/>
   <!-- Publishing / Hosting -->
   <img alt="Quarto" src="https://img.shields.io/badge/Quarto-39729E?logo=quarto&logoColor=white" />
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white" />
   <img alt="Posit" src="https://img.shields.io/badge/Posit-447099?logo=posit&logoColor=white" />
-
+  <!-- Monitoring / Dashboards -->
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+  <!-- Formats -->
+  <img alt="SVG" src="https://img.shields.io/badge/SVG-FF9900?logo=svg&logoColor=white" />
+  <br/><br/>
   <!-- R packages on r-universe -->
   <a href="https://sedzinfo.r-universe.dev/"><img alt="r-universe" src="https://sedzinfo.r-universe.dev/badges/:name" /></a>
   <a href="https://sedzinfo.r-universe.dev/builds"><img alt="r-universe registry" src="https://sedzinfo.r-universe.dev/badges/:registry" /></a>
   <a href="https://sedzinfo.r-universe.dev/packages"><img alt="r-universe packages" src="https://sedzinfo.r-universe.dev/badges/:packages" /></a>
   <a href="https://sedzinfo.r-universe.dev/articles"><img alt="r-universe articles" src="https://sedzinfo.r-universe.dev/badges/:articles" /></a>
   <a href="https://sedzinfo.r-universe.dev/datasets"><img alt="r-universe datasets" src="https://sedzinfo.r-universe.dev/badges/:datasets" /></a>
-
-  <!-- Monitoring / Dashboards -->
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
-
-  <!-- Formats -->
-  <img alt="SVG" src="https://img.shields.io/badge/SVG-FF9900?logo=svg&logoColor=white" />
-
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=sedzinfo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
 </p>
-
-[![r-universe](https://sedzinfo.r-universe.dev/badges/:name)](https://sedzinfo.r-universe.dev/) [![registry](https://sedzinfo.r-universe.dev/badges/:registry)](https://sedzinfo.r-universe.dev/builds) [![packages](https://sedzinfo.r-universe.dev/badges/:packages)](https://sedzinfo.r-universe.dev/packages) [![articles](https://sedzinfo.r-universe.dev/badges/:articles)](https://sedzinfo.r-universe.dev/articles) [![datasets](https://sedzinfo.r-universe.dev/badges/:datasets)](https://sedzinfo.r-universe.dev/datasets)
 
 ---
 
